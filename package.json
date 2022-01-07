@@ -1,6 +1,6 @@
 {
   "name": "nextjs-ssl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Serve secure NextJS",
   "main": "dist/bundles/bundle.umd.js",
   "module": "dist/bundles/bundle.esm.js",
