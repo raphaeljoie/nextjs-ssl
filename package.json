@@ -1,6 +1,6 @@
 {
   "name": "nextjs-ssl",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Serve secure NextJS",
   "main": "src/server.js",
   "author": "Raphaël Joie",
